@@ -88,7 +88,3 @@ The API will be available at `http://127.0.0.1:8000/`.
 - [ ] Connecting third-party Payment Gateways via API.
 - [ ] Implementing Redis and Celery for asynchronous background tasks.
 - [ ] Documenting endpoints using Swagger/ReDoc (drf-spectacular).
-
-```
-
-```
